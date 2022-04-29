@@ -1,0 +1,22 @@
+@import "colores";
+@import "tipografia";
+@import "estructura";
+
+div h2 {
+    color: black;
+    &:hover {
+        background-color: rgb(136, 136, 196);
+        padding: 5px;
+    }
+}
+
+.logo {
+    width: 100px;
+    padding: 5px;
+    border-radius: 50px;
+}
+
+
+body  {
+    background-image: url(https://c.tenor.com/yu4yJBMcidMAAAAd/space.gif) ;
+}
