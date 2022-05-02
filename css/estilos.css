@@ -29,4 +29,10 @@ body {
   background-size: cover;
 }
 
+.fondocolor{
+  color: white;
+}
 
+.texto {
+  text-align: justify;
+}
