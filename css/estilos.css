@@ -2,7 +2,8 @@ article {
   font-variant: small-caps; }
 
 body {
-  color: white; }
+  color: white;
+ }
 
 div h2 {
   color: black; }
@@ -15,5 +16,17 @@ div h2 {
   padding: 5px;
   border-radius: 50px; }
 
+.centrado{
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 body {
-  background-image: url(https://c.tenor.com/yu4yJBMcidMAAAAd/space.gif); }
+  background-image: url(https://c.tenor.com/yu4yJBMcidMAAAAd/space.gif); 
+  background-attachment: fixed; 
+  background-repeat: no-repeat; 
+  background-size: cover;
+}
+
+
